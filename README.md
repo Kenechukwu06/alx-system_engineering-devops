@@ -1,2 +1,1 @@
-#!/bin/bash
-shell basic repo
+My second readme
